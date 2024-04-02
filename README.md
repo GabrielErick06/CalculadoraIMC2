@@ -5,7 +5,7 @@ Calculadora  IMC foi um aplicativo que desenvolvi com o pessoal da comunidade De
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
-<img src="/images/screenshot1.png" width="260">&emsp;<img src="/images/Screenshot1_2.png" width="260">&emsp;<img src="/images/Screenshot2.png" width="260"><img src="/images/Screenshot3.png" width="260"><img src="/images/Screenshot4.png" width="260">
+<img src="/result/screenshot1.png" width="260">&emsp;<img src="/result/Screenshot1_2.png" width="260">&emsp;<img src="/result/Screenshot2.png" width="260"><img src="/result/Screenshot3.png" width="260"><img src="/result/Screenshot4.png" width="260">
 
 ## Tecnologias
 * Kotlin
